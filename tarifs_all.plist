@@ -16,7 +16,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.1month</string>
+		<string>com.viktorgulin.socialspypro.monthly</string>
 		<key>title</key>
 		<string>7 days</string>
 		<key>divide_value</key>
@@ -40,7 +40,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.alternative.1month</string>
+		<string>com.viktorgulin.socialspypro.alternative.monthly</string>
 		<key>title</key>
 		<string>1 month</string>
 		<key>divide_value</key>
@@ -67,7 +67,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.alternative.1month</string>
+		<string>com.viktorgulin.socialspypro.alternative.monthly</string>
 		<key>title</key>
 		<string>1 month</string>
 		<key>divide_value</key>
