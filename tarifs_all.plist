@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>main</key>
+<array>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.socialspypro.weekly</string>
+		<key>title</key>
+		<string>Weekly</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+		<key>badge</key>
+		<string>POPULAR</string>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.socialspypro.1month</string>
+		<key>title</key>
+		<string>7 days</string>
+		<key>divide_value</key>
+		<integer>-1</integer>
+		<key>price_title</key>
+		<string>Try for FREE</string>
+		<key>badge</key>
+		<string>BEST OFFER</string>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.socialspypro.alternative.weekly</string>
+		<key>title</key>
+		<string>7 days</string>
+		<key>divide_value</key>
+		<integer>-1</integer>
+		<key>price_title</key>
+		<string>Try for FREE</string>
+		<key>badge</key>
+		<string>-60%</string>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.socialspypro.alternative.1month</string>
+		<key>title</key>
+		<string>1 month</string>
+		<key>divide_value</key>
+		<integer>-1</integer>
+		<key>price_title</key>
+		<string>Try for FREE</string>
+		<key>badge</key>
+		<string>-60%</string>
+	</dict>
+</array>
+<key>alternative</key>
+<array>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.socialspypro.alternative.weekly</string>
+		<key>title</key>
+		<string>7 days</string>
+		<key>divide_value</key>
+		<integer>-1</integer>
+		<key>price_title</key>
+		<string>Try for FREE</string>
+		<key>badge</key>
+		<string>-60%</string>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.socialspypro.alternative.1month</string>
+		<key>title</key>
+		<string>1 month</string>
+		<key>divide_value</key>
+		<integer>-1</integer>
+		<key>price_title</key>
+		<string>Try for FREE</string>
+		<key>badge</key>
+		<string>-60%</string>
+	</dict>
+</array>
+<key>default_tarifs</key>
+<string>main</string>
+<key>alternative_delay_time</key>
+<integer>3600</integer>
+<key>localize</key>
+<true/>
+</dict>
+</plist>
