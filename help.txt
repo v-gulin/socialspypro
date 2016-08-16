@@ -5,11 +5,6 @@ body{font-family: '-apple-system','HelveticaNeue'; font-size:34pt; padding-left:
 </style>
 </head>
 <body>
-<br>
-How to <b>cancel subscription</b>?
-<br>
-To cancel subscription, please, contact us by email <a href="mailto:v.gulin.2000@yandex.ru">v.gulin.2000@yandex.ru</a>. We will proceed with your request within 1 business day.<br>
-<br>
 What is Social Spy PRO? Social Spy PRO is an application that tracks your social media interactions.<br>
 <br>
 It generates basic entertaining reports by tracking who you're following, who you're followed by and tracking your social media posts and users who likes or commenting on them. For example, you can get a report who you're following and who you're not followed by.<br>
@@ -22,6 +17,6 @@ Who viewed my profile algorithm is only for entertaining. It doesn't show %100 t
 <br>
 Social Spy PRO is an entertainment service and we do not guarantee to give you %100 real reports. You accept that we do not guarantee to give you exact true reports by downloading and upgrading your membership.<br>
 <br>
-You can write about anything to <a href="mailto:v.gulin.2000@yandex.ru">v.gulin.2000@yandex.ru</a>.<br>
+You can write about anything to <a href="fedor.lukin.99@yandex.ru">fedor.lukin.99@yandex.ru</a>.<br>
 </body>
 </html>
