@@ -6,7 +6,7 @@
 <array>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.weekly</string>
+		<string>com.fedorlukin.socialspypro.weekly</string>
 		<key>title</key>
 		<string>Weekly</string>
 		<key>divide_value</key>
@@ -16,7 +16,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.monthly</string>
+		<string>com.fedorlukin.socialspypro.monthly</string>
 		<key>title</key>
 		<string>Monthly</string>
 		<key>divide_value</key>
@@ -28,7 +28,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.alternative.weekly</string>
+		<string>com.fedorlukin.socialspypro.alternative.weekly</string>
 		<key>title</key>
 		<string>Weekly (first week for free)</string>
 		<key>divide_value</key>
@@ -40,7 +40,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.alternative.monthly</string>
+		<string>com.fedorlukin.socialspypro.alternative.monthly</string>
 		<key>title</key>
 		<string>1 month (first week for free)</string>
 		<key>divide_value</key>
@@ -55,7 +55,7 @@
 <array>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.alternative.weekly</string>
+		<string>com.fedorlukin.socialspypro.alternative.weekly</string>
 		<key>title</key>
 		<string>7 days</string>
 		<key>divide_value</key>
@@ -67,7 +67,7 @@
 	</dict>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.socialspypro.alternative.monthly</string>
+		<string>com.fedorlukin.socialspypro.alternative.monthly</string>
 		<key>title</key>
 		<string>1 month</string>
 		<key>divide_value</key>
@@ -82,7 +82,7 @@
 <string>main</string>
 <key>alternative_delay_time</key>
 <integer>3600</integer>
-<key>localize</key>
-<true/>
+<key>is_live</key>
+<false/>
 </dict>
 </plist>
