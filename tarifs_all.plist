@@ -83,6 +83,6 @@
 <key>alternative_delay_time</key>
 <integer>3600</integer>
 <key>is_live</key>
-<false/>
+<true/>
 </dict>
 </plist>
