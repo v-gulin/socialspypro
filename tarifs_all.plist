@@ -31,31 +31,31 @@
 		<key>product_id</key>
 		<string>com.fedorlukin.socialspypro.alternative.weekly</string>
 		<key>title</key>
-		<string>7 days</string>
+		<string>Weekly</string>
 		<key>divide_value</key>
-		<integer>-1</integer>
+		<integer>1</integer>
 		<key>price_title</key>
 		<string>Try for FREE</string>
 		<key>badge</key>
-		<string></string>
+		<string>-39%</string>
 	</dict>
 	<dict>
 		<key>product_id</key>
 		<string>com.fedorlukin.socialspypro.alternative.monthly</string>
 		<key>title</key>
-		<string>1 month</string>
+		<string>Daily</string>
 		<key>divide_value</key>
-		<integer>-1</integer>
+		<integer>45</integer>
 		<key>price_title</key>
 		<string>Try for FREE</string>
 		<key>badge</key>
-		<string></string>
+		<string>-59%</string>
 	</dict>
 </array>
 <key>default_tarifs</key>
 <string>main</string>
 <key>alternative_delay_time</key>
-<integer>36000000</integer>
+<integer>1800</integer>
 <key>is_live</key>
 <true/>
 </dict>
