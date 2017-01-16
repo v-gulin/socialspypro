@@ -8,13 +8,13 @@
 		<key>product_id</key>
 		<string>com.fedorlukin.socialspypro.monthly</string>
 		<key>title</key>
-		<string>Monthly</string>
+		<string>FREE</string>
 		<key>divide_value</key>
 		<integer>10000000</integer>
 		<key>price_title</key>
 		<string>FREE!</string>
 		<key>badge</key>
-		<string>GET IT FOR FREE!</string>
+		<string>LIMITED TIME!</string>
 	</dict>
 </array>
 <key>alternative</key>
